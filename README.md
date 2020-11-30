@@ -1,2 +1,2 @@
 # Simulation-Python
-OS Simulation on Pythom
+OS Simulation on Python
